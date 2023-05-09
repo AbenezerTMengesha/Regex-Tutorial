@@ -1,2 +1,2 @@
 # Regex Tutorial 
-Tutorial on Matching a Hex
+Tutorial on Matching a Hex Value
